@@ -1,4 +1,4 @@
 # render.toml
 version = 1
 build = "pip freeze > requirements.txt"
-start = "streamlit run Webpage.py"
+start = "/Users/jarvisx/Desktop/Website/bin/python -m streamlit run Webpage.py"
